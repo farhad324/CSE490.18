@@ -1,8 +1,4 @@
 # CSE490.18
-Dummy Repository for Instructions
-
-
-
 
 # Name: "Write your name"
 
